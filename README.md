@@ -4,7 +4,7 @@
 
 Implementation of the BIOMESIO 2021 conference paper [Comparison of Fusion Methodologies Using CNV and RNA-Seq for Cancer Classification: A Case Study on Non-Small-Cell Lung Cancer](https://doi.org/10.1007/978-3-030-88163-4_29)
 
-![Early and intermediate fusion](https://assets.digitalocean.com/articles/alligator/boo.svg")
+![Early and intermediate fusion]("https://github.com/pacocp/RNA-CNV-fusion-comparison/blob/62d4cd8251de2e7168e050a4ce701bbcb566cdd3/integrations-final.png")
 
 ---
 ## Abstract
